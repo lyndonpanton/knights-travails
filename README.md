@@ -2,7 +2,7 @@
 
 ## Description
 
-An algorithm which determines the shortest amount of turns in would take a
+An algorithm which determines the least amount of turns in would take a
 knight to get from any one square on a chessboard, to any other square on a
 chessboard.
 

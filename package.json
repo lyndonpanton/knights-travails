@@ -1,0 +1,43 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "An algorithm which determines the least amount of turns it would take a knight to get from any one square on a chessboard, to any other square on the chessboard",
+  "keywords": [
+    "chess",
+    "k",
+    "knight",
+    "knights",
+    "board",
+    "game",
+    "board game",
+    "turn",
+    "turns",
+    "step",
+    "steps",
+    "algorithm",
+    "data",
+    "data structure",
+    "data structures and algorithms",
+    "square",
+    "path",
+    "least",
+    "shortest",
+    "shortest path",
+    "path"
+  ],
+  "homepage": "https://github.com/lyndonpanton/knights-travails#readme",
+  "bugs": {
+    "url": "https://github.com/lyndonpanton/knights-travails/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyndonpanton/knights-travails.git"
+  },
+  "license": "ISC",
+  "author": "Lyndon Mykal Panton",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
