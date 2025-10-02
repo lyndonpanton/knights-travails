@@ -37,6 +37,9 @@
   "author": "Lyndon Mykal Panton",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "deploy": "git subtree push --prefix dist origin gh-pages",
+    "dev": "webpack server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
